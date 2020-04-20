@@ -438,7 +438,7 @@ demo = {
       data: {
         labels: chart_labels,
         datasets: [{
-          label: 'Indonesia',
+          label: 'DI Yogyakarta',
           fill: true,
           backgroundColor: gradientStroke,
           borderColor: '#5e72e4',
@@ -455,14 +455,14 @@ demo = {
           data: chart_data,
         },
        {
-        label: 'Filipina',
+        label: 'DKI Jakarta',
         fill: true,
         backgroundColor: gradientStroke,
         borderColor: '#5e72e4',
         data: ['5', '70', '184', '234', '414'],
        },
        {
-        label: 'Malaysia',
+        label: 'Jawa Barat',
         fill: true,
         backgroundColor: gradientStroke,
         borderColor: '#5e72e4',
